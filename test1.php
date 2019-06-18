@@ -1,1 +1,3 @@
-1234567890
+<?php
+echo "qwe";
+echo 'as';
